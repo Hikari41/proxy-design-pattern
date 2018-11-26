@@ -1,0 +1,16 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+# IntelliJ project files
+.idea
+*.iml
+# Maven
+target
+.gitignore
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/workspace.xml
+proxy-design-pattern.iml
+src/main/resources/
+src/test/
+target/
